@@ -1,0 +1,40 @@
+body{background-color: rgb(198, 233, 247);
+       }
+ #zona-Encabezado{
+    width: 90.5%;
+    color: rgb(16, 13, 184);
+    background-color: skyblue;
+     } 
+.Texto-Encabezado{
+        font-family: cursive;
+        font-size: big;
+        color: #363fbe;
+       }
+.Texto-Encabezado2 {font-family: cursive;
+        font-size: small;
+        color: rgb(0, 0, 0);
+       }
+#zona-imagenes{
+        width: 90.5%;
+        background-color: rgb(132, 255, 148);
+       }
+#zona-cuerpo{
+        width: 90.5%;
+        background-color: rgb(247, 228, 126);
+       }
+.Texto-cuerpo{
+        font-family: fantasy;
+        font-size: medium;
+        color: rgb(141, 95, 25);
+       }
+#zona-final{
+        width: 90.5%;
+        background-color: rgb(247, 156, 212);
+       }
+ .Texto-final{
+        font-family: fantasy;
+        font-size: small;
+        color: #641550;
+       }
+       
+
